@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
